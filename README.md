@@ -19,4 +19,4 @@ Do sales figures vary between geographic regions?
 The data for this project is provided by Career Foundry in the project brief, and the data was analyzed using a relational database management system and PostgreSQL. The data set includes information about Rockbustor's film inventory, customers, and payments, staff, store locations, movies in stock, actors, movie languages, and rentals.
 
 ### Visualizations
-All visualizations for the project were created in Tableau Public. The link for the Visual can be found here: [Ruckbuster Sales]
+All visualizations for the project were created in Tableau Public. The link for the Visual can be found here: [https://public.tableau.com/app/profile/sunita.lamichhane/viz/RuckbusterSales/RockbusterSales]
